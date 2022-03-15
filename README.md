@@ -28,5 +28,11 @@ After the installation, a copy of it will be on desktop
 ![image](https://user-images.githubusercontent.com/83918638/155172596-6b4085df-703c-4ce3-a1bb-a22fee5c8b21.png)
 
 ## How to use it
-After you installed and opened the app, it should looks like this.  
+After you installed and opened the app, it should looks like this.   
+![image](https://user-images.githubusercontent.com/83918638/158460143-a05c986c-f7b3-4281-b199-607b072015a3.png)  
+To add a new post, just click "add". Then write the name of the post and the url(make sure that you copied the full url, so with https:// because it will check if it is a valid url)   
+After that clic "save" and close the app.  
+![image](https://user-images.githubusercontent.com/83918638/158460121-4e315c76-1b5f-498b-a46c-9fae2e4f8d64.png)   
+When you want to open a post that you saved in the past, just double click that post.
+
 
