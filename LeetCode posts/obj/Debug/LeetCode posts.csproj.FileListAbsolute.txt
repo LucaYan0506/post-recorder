@@ -1,0 +1,11 @@
+D:\School\IT\C#\LeetCode posts\LeetCode posts\bin\Debug\LeetCode posts.exe.config
+D:\School\IT\C#\LeetCode posts\LeetCode posts\bin\Debug\LeetCode posts.exe
+D:\School\IT\C#\LeetCode posts\LeetCode posts\bin\Debug\LeetCode posts.pdb
+D:\School\IT\C#\LeetCode posts\LeetCode posts\obj\Debug\LeetCode posts.csproj.AssemblyReference.cache
+D:\School\IT\C#\LeetCode posts\LeetCode posts\obj\Debug\LeetCode_posts.Form1.resources
+D:\School\IT\C#\LeetCode posts\LeetCode posts\obj\Debug\LeetCode_posts.Properties.Resources.resources
+D:\School\IT\C#\LeetCode posts\LeetCode posts\obj\Debug\LeetCode posts.csproj.GenerateResource.cache
+D:\School\IT\C#\LeetCode posts\LeetCode posts\obj\Debug\LeetCode posts.csproj.CoreCompileInputs.cache
+D:\School\IT\C#\LeetCode posts\LeetCode posts\obj\Debug\LeetCode posts.exe
+D:\School\IT\C#\LeetCode posts\LeetCode posts\obj\Debug\LeetCode posts.pdb
+D:\School\IT\C#\LeetCode posts\LeetCode posts\obj\Debug\LeetCode_posts.AddWindow.resources
