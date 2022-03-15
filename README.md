@@ -23,9 +23,9 @@ Microsoft Defender and other antivirus may block it because this app is an unpop
 then click "Run anyway"（rest assured, it is a safe app, all code can be seen [here](#))  
 ![image](https://user-images.githubusercontent.com/83918638/155171870-ee4f4330-7a32-4890-9c01-1deaccd2da12.png)  
 read it and keep clicking next  
-![image](https://user-images.githubusercontent.com/83918638/155172442-1344ee24-24a7-4e84-b87f-ddc6905d1476.png)  
+![image](https://user-images.githubusercontent.com/83918638/158462828-b4eeab3f-9d8b-43b1-9d49-b900693fec6b.png)
 After the installation, a copy of it will be on desktop  
-![image](https://user-images.githubusercontent.com/83918638/155172596-6b4085df-703c-4ce3-a1bb-a22fee5c8b21.png)
+![image](https://user-images.githubusercontent.com/83918638/158462887-974a3748-6a85-4209-8aa6-e575700d9189.png)
 
 ## How to use it
 After you installed and opened the app, it should looks like this.   
